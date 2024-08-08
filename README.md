@@ -3,7 +3,7 @@
 ## Description
 12.6 Hours Chinese Mandarin Speech Synthesis Corpus - Male, Audiobook, It is recorded by Chinese native speakers, the voice of the full of magnetism. The phoneme coverage is balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1195?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/tts/1195?source=Github
 
 
 ## Format
